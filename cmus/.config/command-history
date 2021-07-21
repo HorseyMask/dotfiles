@@ -1,0 +1,7 @@
+a /mnt/HDD2/Music/
+clear
+a /mnt/HDD2/Music/Gorillaz/Albums/
+q
+live-filter 
+add /mnt/HDD2/Music/
+pause
